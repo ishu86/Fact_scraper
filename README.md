@@ -1,8 +1,10 @@
-# Fact_scraper
+# Fact Scraper  
 
-This is a tool used to scrape facts from a dedicated website like fullfacts.org and etc.
+## Overview  
+This Python-based script leverages the **Google Fact Check Tools API** to automatically extract and analyze factual claims from news articles and websites. It provides a streamlined approach to fact-checking, enhancing the reliability of information consumption.  
 
-
-It will retrieve claim review data and store it in a csv
-
-It uses newspaper module and langchain
+## Key Features  
+- **Automated Fact Extraction**: Efficiently identifies and extracts factual claims from text content.  
+- **API Integration**: Seamlessly integrates with the Google Fact Check Tools API to obtain verified information.  
+- **Natural Language Processing**: Employs NLP techniques to understand the context of claims and detect potential biases.  
+- **Data Analysis**: Processes extracted data to generate insights and reports.  
